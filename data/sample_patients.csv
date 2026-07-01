@@ -1,0 +1,13 @@
+PatientID,name,age,gender,BMI,Blood_pressure,Glucose_level
+P001,John Smith,45,M,28.5,135/85,105
+P002,Sarah Johnson,32,F,24.2,118/76,92
+P003,Michael Chen,58,M,31.7,145/92,145
+P004,Emma Williams,28,F,22.1,112/70,88
+P005,David Brown,62,M,33.2,155/95,165
+P006,Lisa Garcia,41,F,26.8,128/82,110
+P007,James Wilson,55,M,29.4,140/88,128
+P008,Jennifer Martinez,35,F,23.6,115/73,95
+P009,Robert Taylor,68,M,32.1,150/90,155
+P010,Patricia Anderson,51,F,27.9,132/84,118
+P011,Christopher Lee,44,M,25.3,125/79,100
+P012,Maria Rodriguez,38,F,21.8,110/68,87
