@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "mysql": {
+      "name": "MySQL Server",
+      "description": "MySQL database server for Patient Health Analyzer",
+      "type": "mysql",
+      "host": "localhost",
+      "port": 3306,
+      "user": "root",
+      "password": "",
+      "database": "patient_health_db",
+      "tools": [
+        "query",
+        "execute",
+        "list_tables",
+        "describe_table",
+        "insert_record",
+        "update_record",
+        "delete_record"
+      ],
+      "enabled": true,
+      "persistConnection": true
+    }
+  },
+  "version": "1.0",
+  "projectName": "Patient Health Analyzer",
+  "description": "MCP configuration for Patient Health Analyzer database operations"
+}
